@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<!--
+
 **Amisha312710/Amisha312710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi 👋 I'm Amisha Bhatia
 
@@ -64,4 +64,4 @@ Enterprise AI knowledge assistant using RAG + GraphDB
 - Email-amisha312710@gmail.com
 
 
--->
+
