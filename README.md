@@ -1,20 +1,19 @@
-## Hi there 👋
 
 
 
-**Amisha312710/Amisha312710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 # Hi 👋 I'm Amisha Bhatia
-
-🚀 AI/ML Enthusiast | GenAI,NLP| Building dashboards,rag chatbots and ML models
+B.Tech 3rd year CSE @ Manipal University Jaipur, AI | Machine Learning | NLP| Gen AI 
 
 ---
 
 ## About Me
 
-- 💡 Passionate about AI, NLP, and Generative AI, chatbots and much more 
-- 🔥 Building real-world AI applications
-- 📚 Currently learning advanced RAG systems and GraphRAG
-- ⚡ Interested in AI products and intelligent systems
+- Passionate about AI, NLP, and Generative AI, chatbots and much more 
+-  Building real-world AI applications
+-  Currently learning advanced RAG systems and GraphRAG
+-  Interested in AI products and intelligent systems
 
 ---
 
@@ -35,7 +34,7 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Feature E
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Nexus Backup Commander
 AI-enabled backup management system
