@@ -36,8 +36,8 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Feature E
 
 ##  Featured Projects
 
-### Nexus Backup Commander
-AI-enabled backup management system
+### Studyai
+AI-powered study platform
 
 ### Multilingual Review Intelligence System
 Emoji-aware multilingual NLP analytics engine
@@ -47,15 +47,7 @@ Enterprise AI knowledge assistant using RAG + GraphDB
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amisha312710&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha312710&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amisha312710&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
