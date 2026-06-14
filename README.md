@@ -36,14 +36,23 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Feature E
 
 ##  Featured Projects
 
-### Studyai
-AI-powered study platform
+## Featured Projects
+
+### 🔬 Breast Cancer Diagnosis — ML & DL Comparative Analysis
+Benchmarked 5 ML models vs 4 DL architectures on Wisconsin clinical data + 3 CNN-based models (EfficientNetB0, DenseNet121) on IDC histopathology images. Best ML: SVM/Logistic Regression (F1: 0.979, AUC: 0.995).
+[→ View Repo](https://github.com/Amisha312710/breast-cancer-ml-dl-methods-analysis)
+
+### 🌾 Crop Yield Prediction System
+[→ View Repo](https://github.com/Amisha312710/Crop-Yield-Prediction-System)
+
+### 🤖 StudyAI
+AI-powered study platform.
+[→ View Repo](https://github.com/Amisha312710/StudyAI)
 
 ### Multilingual Review Intelligence System
 Emoji-aware multilingual NLP analytics engine
 
-### Hybrid + GraphRAG Assistant
-Enterprise AI knowledge assistant using RAG + GraphDB
+
 
 ---
 
