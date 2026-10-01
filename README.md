@@ -1,67 +1,67 @@
+# Amisha Bhatia
 
+B.Tech Computer Science Engineering (3rd Year), Manipal University Jaipur  
+Specialization in Machine Learning, Natural Language Processing, and Applied AI Systems
 
-
-
-
-# Hi 👋 I'm Amisha Bhatia
-B.Tech 3rd year CSE @ Manipal University Jaipur, AI | Machine Learning | NLP| Gen AI 
-
----
-
-## About Me
-
-- Passionate about AI, NLP, and Generative AI, chatbots and much more 
--  Building real-world AI applications
--  Currently learning advanced RAG systems and GraphRAG
--  Interested in AI products and intelligent systems
+[LinkedIn](https://www.linkedin.com/in/amisha-bhatia-403717335/) | [Email](mailto:amisha312710@gmail.com) | [GitHub](https://github.com/Amisha312710)
 
 ---
 
-## 🛠 Tech Stack
+## Overview
 
-### Languages
-Python • C++ • SQL •
-
-### Machine Learning & Deep Learning
-Scikit-Learn • TensorFlow • PyTorch • XGBoost • OpenCV
-
-### NLP & Generative AI
-Transformers • HuggingFace • LangChain • LangGraph • RAG • GraphRAG • Vector Databases • Prompt Engineering
-
-### Data Science & Analytics
-Pandas • NumPy • Matplotlib • Seaborn • Data Visualization • Feature Engineering
-
+Computer Science undergraduate with a focus on Applied Machine Learning, NLP architectures, and data engineering pipelines. Experienced in building end-to-end systems spanning data ingestion, preprocessing, model benchmarking, and interactive visual analytics. Currently developing expertise in retrieval-augmented generation (RAG) and graph-based retrieval architectures.
 
 ---
 
-##  Featured Projects
+## Technical Skills
+
+| Domain | Technologies and Frameworks |
+|---|---|
+| Programming Languages | Python, C++, SQL |
+| Machine Learning & Deep Learning | PyTorch, TensorFlow, Scikit-Learn, XGBoost, OpenCV |
+| NLP & Generative AI | Hugging Face Transformers, LangChain, LangGraph, RAG, GraphRAG, Vector Databases |
+| Data Engineering & Analytics | Pandas, NumPy, Matplotlib, Seaborn, Plotly, ETL Pipelines, Feature Engineering |
+| Web & Backend Frameworks | FastAPI, Streamlit, Flask, RESTful APIs |
+| Tools & Developer Workflows | Git, GitHub, Linux environments, Jupyter, Postman |
+
+---
 
 ## Featured Projects
 
-### 🔬 Breast Cancer Diagnosis — ML & DL Comparative Analysis
-Benchmarked 5 ML models vs 4 DL architectures on Wisconsin clinical data + 3 CNN-based models (EfficientNetB0, DenseNet121) on IDC histopathology images. Best ML: SVM/Logistic Regression (F1: 0.979, AUC: 0.995).
-[→ View Repo](https://github.com/Amisha312710/breast-cancer-ml-dl-methods-analysis)
+### Social Media Sentiment Intelligence Platform
+End-to-end sentiment analytics and ETL pipeline monitoring multi-source commentary across five industry domains (Technology, Financial Markets, Climate, Sports, Healthcare).
+- Implemented a dual-engine sentiment ensemble combining VADER lexicon with TextBlob semantic polarity and subjectivity metrics.
+- Developed an automated 4-stage ETL workflow (ingestion, cleaning, NLP scoring, SQLite persistence).
+- Created an interactive Streamlit analytics dashboard featuring diurnal patterns, cross-domain radar charts, and a real-time evaluation playground.
+- Repository: [sentiment-dashboard](https://github.com/Amisha312710/sentiment-dashboard)
 
-### 🌾 Crop Yield Prediction System
-[→ View Repo](https://github.com/Amisha312710/Crop-Yield-Prediction-System)
+### CodeLens AI - Codebase Architecture & Exploration Engine
+Developer productivity platform designed to index software repositories, automate architecture visualization, and provide contextual technical walkthroughs.
+- Utilizes semantic vector indexing to navigate codebase hierarchies and explain code modules.
+- Generates structural dependencies and component interaction graphs.
+- Repository: [codelens-ai](https://github.com/Amisha312710/codelens-ai)
 
-### 🤖 StudyAI
-AI-powered study platform.
-[→ View Repo](https://github.com/Amisha312710/StudyAI)
+### Breast Cancer Diagnosis — ML & Deep Learning Comparative Analysis
+Benchmarked 5 classical machine learning algorithms against 4 deep learning architectures on clinical records and histopathology imagery.
+- Evaluated models on Wisconsin Diagnostic dataset (clinical features) and IDC histopathology image patches.
+- Implemented convolutional architectures including EfficientNetB0 and DenseNet121 for tissue classification.
+- Best performing model achieved an F1-score of 0.979 and AUC-ROC of 0.995 on validation sets.
+- Repository: [breast-cancer-ml-dl-methods-analysis](https://github.com/Amisha312710/breast-cancer-ml-dl-methods-analysis)
 
-### Multilingual Review Intelligence System
-Emoji-aware multilingual NLP analytics engine
+### Crop Yield Prediction System
+Machine learning regression pipeline that forecasts agricultural crop yields based on weather patterns, soil properties, and rainfall parameters.
+- Built exploratory feature engineering routines and comparative regression models.
+- Repository: [Crop-Yield-Prediction-System](https://github.com/Amisha312710/Crop-Yield-Prediction-System)
 
-
+### CivicPulse - Public Infrastructure Monitoring Platform
+Community-driven platform facilitating public facility reporting, automated dispatch routing, and localized alert tracking.
+- Features relational database schemas, REST endpoints, and modular frontend components.
+- Repository: [civic-pulse](https://github.com/Amisha312710/civic-pulse)
 
 ---
 
+## Contact
 
-
-## 🌐 Connect With Me
-
-- LinkedIn-https://www.linkedin.com/in/amisha-bhatia-403717335/
-- Email-amisha312710@gmail.com
-
-
-
+- LinkedIn: [linkedin.com/in/amisha-bhatia-403717335](https://www.linkedin.com/in/amisha-bhatia-403717335/)
+- Email: amisha312710@gmail.com
+- GitHub: [github.com/Amisha312710](https://github.com/Amisha312710)
