@@ -11,35 +11,41 @@ Specialization in Machine Learning, Natural Language Processing, and Applied AI 
 
 Computer Science undergraduate focused on Applied Machine Learning, NLP architectures, and data engineering pipelines. Experienced in building end-to-end applications from data ingestion and model inference to interactive visual analytics. Currently specializing in Retrieval-Augmented Generation (RAG) pipelines and GraphRAG architectures.
 
-- Open to Machine Learning, Data Science, and Software Engineering Internship Opportunities
-- Primary Focus: Conversational AI, RAG Systems, NLP Pipelines, and Full-Stack Machine Learning
+- Open to Software Development, Data Science & AI/ML Internship Opportunities
+- Primary Focus: Retrieval-Augmented Generation (RAG), GraphRAG, NLP Pipelines, and Full-Stack Machine Learning
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages & Core
+### Programming & DSA
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+### Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+*Regression, Classification, Predictive Analytics, Feature Engineering, Model Evaluation*
 
-### NLP, Generative AI & Frameworks
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### AI / NLP / LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+*Retrieval-Augmented Generation (RAG), LangChain, Langgraph, GraphRAG, XLM-RoBERTa, GLiNER*
 
-### Data Engineering & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Data Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+*Exploratory Data Analysis (EDA), Data Cleaning, Statistical Summaries, Visual Analytics*
+
+### Web & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+*Workflow Automation, API Testing, Version Control, Continuous Integration*
 
 ---
 
 ## Featured Projects
 
-### RAG Knowledge Chatbot
-Context-aware conversational AI assistant powered by retrieval-augmented generation (RAG) for dense document and technical knowledge querying.
-- Implemented semantic chunking, vector embeddings, and multi-stage dense retrieval pipelines.
-- Integrated cross-encoder re-ranking and evidence ranking mechanisms to maximize retrieval precision and suppress hallucinations.
-- Features grounded context synthesis and prompt optimization for reliable conversational question-answering.
--  Repository: [RAG][(https://github.com/SuhaniGupta99/Rag_chatbot)]
+### RAG Chatbot - Retrieval-Augmented Conversational System
+Full-stack conversational AI assistant powered by retrieval-augmented generation for document-grounded question-answering.
+- Built full-stack architecture with modular Python backend and interactive web frontend.
+- Features semantic document chunking, dense vector retrieval, and prompt synthesis to ensure high-accuracy responses and eliminate hallucinations.
+- Repository: [Rag_chatbot](https://github.com/SuhaniGupta99/Rag_chatbot)
 
 ### StudyAI - AI-Powered Learning Companion
 An intelligent study and revision assistant designed to accelerate technical learning through automated assessment and contextual tutoring.
